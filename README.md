@@ -1,39 +1,24 @@
 #Welcome to My GitHub Page!
-# Project Title
+# CS499 Final Portfolio
 
-Brief description or overview of the project.
+In my ePortfolio I am going to demostrate my proficiency in the aspects taught in the computer science program. The goal is to create a holistic view of my progress and show the importance of each aspect through exploring 3 different artifacts. 
 
 ## Table of Contents
 
-- [About](#about)
+- [Professional Reflection](#professional-reflection)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
-## About
+## Professional Reflection
 
-Explain what your project is about and its purpose.
 
-## Features
+
+
+## Features      
 
 List the key features of your project:
 
-- Feature 1
-- Feature 2
-- Feature 3
+- CS320 Appointment Scheduling
+- IT315 Use Case Diagram
+- CS340 Database Management
 
-## Installation
 
-Provide step-by-step instructions on how to install and set up your project locally.
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/yourproject.git
-
-# Navigate to the project directory
-cd yourproject
-
-# Install dependencies
-npm install
