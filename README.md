@@ -49,7 +49,7 @@ I believe I met the course objectives, but if I did not I will certainly improve
 
 ## Artifact 2 Student Program Use Cases
 
-[Student Program Use Cases](https://github.com/Ukuliga/ukuliga.github.io/tree/7dbbad9c64c8d4f645b84ce0373fc6597b8a2796/Artifact-2
+[Student Program Use Cases](https://github.com/Ukuliga/ukuliga.github.io/tree/7dbbad9c64c8d4f645b84ce0373fc6597b8a2796/Artifact-2)
 
 The artifact I chose for this Milestone was the IT315 Use Case diagram. I initially made it in 2022. I chose this inclusion because it displays many of the outcomes the course is working towards. Specifically, “Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms)”, “Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts”, and “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database)”.
 
