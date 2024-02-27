@@ -35,6 +35,8 @@ In summary, my professional self-assessment encapsulates my journey, highlightin
 
 ## Artifact 1 Appointment Scheduling
 
+[Appointment Scheduling improvement](https://github.com/Ukuliga/ukuliga.github.io/tree/7dbbad9c64c8d4f645b84ce0373fc6597b8a2796/CS320%206-1)
+
 This artifact was done in CS320. It is an app that schedules appointments, makes contacts, and tasks for a system. It also has a set of JUnit tests made to test the program for functionality. 
 
 This artifact showcases many of the skills I am trying to present in my portfolio. Firstly I want to demonstrate my ability to develop quality code that is made to complete industry-specific goals. The program is set up to ensure the goals of the end users are met. Next I want to show that I am using a mindset to mitigate design flaws, expose potential vulnerabilities and ensure security. Lastly I want to show that I am developing in an environment that shows clear communication adapted to the audience I am working with. Improving the artifact I took the original code and added additional services in the appointment class. Originally it only had add and delete appointments, but I added an update function. This allows the users to make changes to the appointment without completely removing and adding a new one. Additionally I added some more descriptive error messages because when troubleshooting I kept receiving an invalid date error and could not find the issue. Eventually I found the JUnit test was using a date in 2021 to make an appointment, which obviously could not occur since it is now 2023. To mitigate issues like that in the future I added the descriptive error messages.
