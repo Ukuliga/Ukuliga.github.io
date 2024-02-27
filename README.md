@@ -9,7 +9,7 @@ In my ePortfolio I am going to demostrate my proficiency in the 5 outcomes taurg
 - [Artifact 1 Appointment Scheduling](#artifact-1-appointment-scheduling)
 - [Artifact 2 Student Program Use Cases](#artifact-2-student-program-use-cases)
 - [Artifact 3 Database Collaberation](#artifact-3-database-collaberation)
-- [Code review Video](#video)
+- [Code review Video](#code-review)
 
 ## Professional Reflection
 [Professional Reflection](CS499%20Professional%20reflection.docx)
@@ -63,6 +63,11 @@ I believe these changes are good to show that I have grown in coding and data ma
 
 Enhancing this was a fun process for me. I work with databases and analysis like this in my career and enjoy learning more and getting practice with these structures. The challenge I ran into for this artifact was trying to find what data aspects would be interesting to the workers and the users. When working I am much more productive when working towards a solid set of goals that are not just generic improvements that may or may not be useful to the end user. 
 
+## Code Review
+
+I chose to cover my second artifact. This review is approximately 30 minutes long and covers the purposem structure, and implementation of the artifact and it's enhancement.
+
+[Code Review](https://vimeo.com/917279085?share=copy)
 
 
 
