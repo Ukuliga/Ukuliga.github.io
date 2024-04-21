@@ -23,7 +23,6 @@ Communication, both verbal and written, has emerged as a crucial pillar of my pr
 The three enhancements I have used for this course demonstrate my wide mastery of different computer science areas.
 
 Mastery in thorough testing reflects my commitment to software reliability and quality. By designing and executing meticulous test cases, I've ensured the robustness of software solutions, demonstrating my attention to detail and dedication to excellence.
-
 Crafting an algorithm for student course selection was a pivotal project. It showcased my prowess in data structures and algorithms, as I devised a solution optimizing course selection based on student attributes and program requirements. Through rigorous testing and refinement, I empowered students to make informed academic decisions.
 
 Creating an animal shelter program using a NoSQL database underscored my expertise in software engineering and database management. From designing schemas to implementing data manipulation functionalities, I developed scalable solutions optimizing shelter operations and animal records management.
