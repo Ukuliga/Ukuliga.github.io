@@ -1,14 +1,14 @@
 #Welcome to My GitHub Page!
 # Paul Stephan's CS499 Final Portfolio
 
-In my ePortfolio, I am going to demonstrate my proficiency in the 5 outcomes targeted in the computer science program. The goal is to create a holistic view of my progress and show the importance of each aspect by exploring 3 different artifacts. 
+In my ePortfolio, I am going to demonstrate my proficiency in the five outcomes targeted in the computer science program. The goal is to create a holistic view of my progress and show the importance of each aspect by exploring three different artifacts.
 
 ## Table of Contents
 
 - [Professional Reflection](#professional-reflection)
-- [Artifact 1 Appointment Scheduling](#artifact-1-appointment-scheduling)
-- [Artifact 2 Student Program Use Cases](#artifact-2-student-program-use-cases)
-- [Artifact 3 Database Collaberation](#artifact-3-database-collaberation)
+- [Artifact 1: Appointment Scheduling](#artifact-1-appointment-scheduling)
+- [Artifact 2: Student Program Use Cases](#artifact-2-student-program-use-cases)
+- [Artifact 3: Database Collaberation](#artifact-3-database-collaberation)
 - [Code review Video](#code-review)
 
 ## Professional Reflection
