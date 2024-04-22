@@ -72,4 +72,4 @@ Enhancing this was a fun process for me. I work with databases and analysis like
 
 I chose to cover my second artifact. This review is approximately 30 minutes long and covers the purpose structure, and implementation of the artifact and it's enhancement.
 
-[Code Review](https://vimeo.com/917279085?share=copy)
+[Code Review](https://vimeo.com/937523668?share=copy)
