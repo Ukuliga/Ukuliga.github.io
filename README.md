@@ -70,6 +70,6 @@ Enhancing this was a fun process for me. I work with databases and analysis like
 
 ## Code Review
 
-I chose to cover my second artifact. This review is approximately 30 minutes long and covers the purpose structure, and implementation of the artifact and it's enhancement.
+In this comprehensive code review, I aim to showcase my ability to code efficiently while keeping the end user's goals at the forefront. Throughout the enhancement process, my focus was on aligning with coding practices, ensuring clear communication, and maintaining consistent code styling.
 
 [Code Review](https://vimeo.com/937523668?share=copy)
