@@ -8,7 +8,7 @@ In my ePortfolio, I am going to demonstrate my proficiency in the five outcomes 
 - [Professional Reflection](#professional-reflection)
 - [Artifact 1: Appointment Scheduling](#artifact-1-appointment-scheduling)
 - [Artifact 2: Student Program Use Cases](#artifact-2-student-program-use-cases)
-- [Artifact 3: Database Collaberation](#artifact-3-database-collaberation)
+- [Artifact 3: Database Collaboration](#artifact-3-database-collaberation)
 - [Code review Video](#code-review)
 
 ## Professional Reflection
@@ -56,7 +56,7 @@ This artifact is good for displaying my ability to provide value in developing s
 
 Enhancing this artifact was very good for me to focus on converting a plan I had previously made into functional code. It had been such a long time that I had not recalled much of the goals when first making the Use Case diagram that it might as well have been from a different developer. My main challenge was making the tests check what was needed and having the data entered into the system to test the system with different options.
 
-## Artifact 3 Database Collaberation
+## Artifact 3 Database Collaboration
 
 [Artifact 3 Original and Enhancement](https://github.com/Ukuliga/ukuliga.github.io/tree/main/Artifact3)
 
