@@ -8,7 +8,7 @@ In my ePortfolio, I am going to demonstrate my proficiency in the five outcomes 
 - [Professional Reflection](#professional-reflection)
 - [Artifact 1: Appointment Scheduling](#artifact-1-appointment-scheduling)
 - [Artifact 2: Student Program Use Cases](#artifact-2-student-program-use-cases)
-- [Artifact 3: Database Collaboration](#artifact-3-database-collaberation)
+- [Artifact 3: Database Collaboration](#artifact-3-database-collaboration)
 - [Code review Video](#code-review)
 
 ## Professional Reflection
