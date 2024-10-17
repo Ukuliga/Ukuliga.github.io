@@ -1,5 +1,3 @@
-#Welcome to My GitHub Page!
-# Paul Stephan's CS499 Final Portfolio - New Theme
 
 In my ePortfolio, I am going to demonstrate my proficiency in the five outcomes targeted in the computer science program. The goal is to create a holistic view of my progress and show the importance of each aspect by exploring three different artifacts.
 
