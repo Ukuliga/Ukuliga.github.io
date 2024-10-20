@@ -4,9 +4,9 @@ In my ePortfolio, I am going to demonstrate my proficiency in the five outcomes 
 ## Table of Contents
 
 - [Professional Reflection](#professional-reflection)
-- [Artifact 1: Appointment Scheduling](#artifact-1-appointment-scheduling)
-- [Artifact 2: Student Program Use Cases](#artifact-2-student-program-use-cases)
-- [Artifact 3: Database Collaboration](#artifact-3-database-collaboration)
+- [Artifact 1: Appointment Scheduling Repository](https://github.com/Ukuliga/AppointmentScheduler)
+- [Artifact 2: Student Program Use Cases Repository](https://github.com/Ukuliga/StudentScheduleProgram)
+- [Artifact 3: Database Collaboration Repository](https://github.com/Ukuliga/noSQLAnimalShelter)
 - [Code review Video](#code-review)
 
 ## Professional Reflection
@@ -32,7 +32,7 @@ In summary, my professional self-assessment encapsulates my journey, highlightin
 
 ## Artifact 1 Appointment Scheduling
 
-[Artifact 1 Original and Enhancement](https://github.com/Ukuliga/ukuliga.github.io/tree/main/Artifact1)
+[Artifact 1: Appointment Scheduling Repository](https://github.com/Ukuliga/AppointmentScheduler)
 
 This artifact was done in CS320. It is an app that schedules appointments, makes contacts, and tasks for a system. It also has a set of JUnit tests made to test the program for functionality. 
 
@@ -46,7 +46,7 @@ I found the process of improving the artifact very rewarding. I have learned man
 
 ## Artifact 2 Student Program Use Cases
 
-[Artifact 2 Original and Enhanced](https://github.com/Ukuliga/ukuliga.github.io/tree/main/Artifact2)
+[Artifact 2: Student Program Use Cases Repository](https://github.com/Ukuliga/StudentScheduleProgram)
 
 The artifact I chose for this Milestone was the IT315 Use Case diagram. I initially made it in 2022. I chose this inclusion because it displays many of the outcomes the course is working towards. Specifically, “Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms)”, “Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts”, and “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database)”.
 
@@ -56,7 +56,7 @@ Enhancing this artifact was very good for me to focus on converting a plan I had
 
 ## Artifact 3 Database Collaboration
 
-[Artifact 3 Original and Enhancement](https://github.com/Ukuliga/ukuliga.github.io/tree/main/Artifact3)
+[Artifact 3: Database Collaboration Repository](https://github.com/Ukuliga/noSQLAnimalShelter)
 
 I chose the README and mongoDB from CS340 for my third artifact. I made this in August of 2023, so fairly recently compared to my other artifacts. It demonstrates many of the outcomes for CS499. The main two I wanted to target were “Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources” and “Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science”.
 
