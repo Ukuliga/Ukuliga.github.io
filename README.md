@@ -10,7 +10,7 @@ In my ePortfolio, I am going to demonstrate my proficiency in the five outcomes 
 - [Code review Video](#code-review)
 
 ## Professional Reflection
-[Professional Reflection](CS499%20Professional%20reflection.docx)
+[Professional Reflection](https://github.com/Ukuliga/ukuliga.github.io/blob/main/CS499%20Professional%20reflection%20Stephan.docx)
 
 Reflecting on my journey through the Computer Science program and the completion of my capstone project, I find myself deeply appreciative of the transformative experience it has been. This journey has not only equipped me with technical skills but has also shaped my professional identity and readiness to navigate the dynamic landscape of computer science.
 
