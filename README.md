@@ -35,19 +35,15 @@ In summary, my professional self-assessment encapsulates my journey, highlightin
 [Artifact 1: Appointment Scheduling Repository](https://github.com/Ukuliga/AppointmentScheduler)
 
 1. Briefly describe the artifact. What is it? When was it created?
-
 This is a program I originally created in CS320. It is a program that manages appointments, contacts, and tasks for a small business. The program makes classes for each of these and sets up their get and set methods. Once those are all made, I created JUnit tests for each class to ensure functionality.
 
 2. Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?
-
 I included this artifact because it displays my ability to create functional code that adheres to the best coding practice. Specifically I want to show my understanding of object oriented design and creating solution oriented code. I improved the artifact by translating the program to python. This shows my understanding of multiple languages and the use of good coding practices in both. 
 
 3. Did you meet the course outcomes you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?
-
 I planned on meeting the course outcomes of “Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science”, “Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts”, and “Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices” I believe I have successfully done this through creating functional code, usable classes, and comments to allow others to help contribute as well. 
 
 4. Reflect on the process of enhancing and modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
-
 Reflecting on the process of enhancing this artifact I discovered a few things. I had not done much testing in python before and it is quite a bit different than I expected. They feel very intuitive to me, but that could be from my previous work in python. I believe this has been really good to expand my knowledge of coding and object oriented work.
 
 
