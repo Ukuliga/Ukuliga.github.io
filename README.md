@@ -97,4 +97,4 @@ Enhancing this artifact was enjoyable for me, especially since I work with datab
 
 In this comprehensive code review, I aim to showcase my ability to code efficiently while keeping the end user's goals at the forefront. Throughout the enhancement process, my focus was on aligning with coding practices, ensuring clear communication, and maintaining consistent code styling.
 
-[Code Review] (https://vimeo.com/1021589341?share=copy#t=0)
+[Code Review](https://vimeo.com/1021589341?share=copy#t=0)
