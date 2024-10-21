@@ -77,13 +77,15 @@ Enhancing this artifact stretched my thoughts when trying to create functional c
 [Artifact 3: Database Collaboration Repository](https://github.com/Ukuliga/noSQLAnimalShelter)
 
 1. Briefly describe the artifact. What is it? When was it created?
+
 The artifact I selected for this milestone is the README and MongoDB project from CS340, which I created in August 2023. It was relatively recent compared to my other artifacts and focuses on database management and security.
 2. Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?
+
 I included this artifact because it showcases both my ability to implement security measures and my skills in creating a collaborative environment. Specifically, I enabled access control in the MongoDB instance by requiring admin-level authentication and secure passwords for user access. Additionally, I improved the data structure by ensuring clear relationships between collections, enhancing the original CRUD functions to include more complex analysis and document handling that aligns with the data schema.
 3. Did you meet the course outcomes you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?
+
 Yes, I believe I met the course outcomes. This artifact demonstrates my growth in coding and data manipulation, as I showed both the ability to secure the environment and make it collaborative. It reflects how my skills have developed since the original work, and I have no major updates to my outcome-coverage plans.
 4. Reflect on the process of enhancing and modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
-
 
 Enhancing this artifact was enjoyable for me, especially since I work with databases and analysis in my career. I learned more about improving data structures and ensuring security. The main challenge I faced was identifying which data aspects would be most interesting and useful to the workers and users. I tend to be more productive when I have a clear set of goals to work toward, rather than making general improvements that may not benefit the end user.
 
